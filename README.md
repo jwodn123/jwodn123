@@ -1,19 +1,5 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=KIMJIHYEON&animation=fadeIn&fontSize=80&fontAlign=50&fontAlignY=43)
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyeon117&hide=stars&hide_title=true&show_icons=true&theme=vue)
-</div>
-
----
-
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Skills 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
