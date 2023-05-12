@@ -4,7 +4,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwodn123&show_icons=true&theme=radical)
 </div> 
 
-----
+--
 
 <h3 align="center">📚 Skills 📚</h3>
 <p align="center">
