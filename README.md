@@ -1,3 +1,10 @@
+<h3 align="center">💻 Github Stats 💻</h3>
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwodn123&show_icons=true&theme=radical)
+</div> 
+
+---
+
 <h3 align="center">📚 Skills 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -8,11 +15,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/뱃지레이블-#02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 </p>
-
-<h3 align="center">💻 Github Stats 💻</h3>
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwodn123&show_icons=true&theme=radical)
-</p> 
 
 
 <!--
