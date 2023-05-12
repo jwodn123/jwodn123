@@ -9,10 +9,8 @@
   <img src="https://img.shields.io/badge/뱃지레이블-#02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwodn123&show_icons=true&theme=radical)
-</div>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwodn123&show_icons=true&theme=radical)
   
 <!--
 **jwodn123/jwodn123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
