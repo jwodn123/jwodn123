@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring&theme=light"> </br>
-    <img src="https://skillicons.dev/icons?i=js,html,csst"> </br>
+    <img src="https://skillicons.dev/icons?i=js,html,css"> </br>
     <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,mysql,redis&theme=light"> </br>
     <img src="https://skillicons.dev/icons?i=aws,git,githubactions,docker&theme=light"/>
   </a>
