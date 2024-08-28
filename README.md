@@ -4,7 +4,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring&theme=light"> </br>
     <img src="https://skillicons.dev/icons?i=js,html,css&theme=light"> </br>
-    <img src="https://skillicons.dev/icons?i=mysql,redis&theme=light"> </br>
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,mysql,redis&theme=light"> </br>
     <img src="https://skillicons.dev/icons?i=aws,git,githubactions,docker"/>
   </a>
 </p>
