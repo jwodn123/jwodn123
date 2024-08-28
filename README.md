@@ -1,7 +1,13 @@
 
 <h3 align="center">📚 Skills 📚</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin&theme=light">
+    <img src="https://skillicons.dev/icons?i=git,docker" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin&theme=light">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
