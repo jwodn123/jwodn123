@@ -2,7 +2,7 @@
 <h3 align="center">📚 Skills 📚</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin&theme=light">
+    <img src="https://skillicons.dev/icons?i=java,kotlin&theme=light"> </br>
     <img src="https://skillicons.dev/icons?i=aws,git,docker"/>
   </a>
 </p>
